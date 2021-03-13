@@ -1,4 +1,4 @@
-package com.ttn.seleniumSession.testCases;
+package testCases;
 
 import org.testng.annotations.Test;
 
