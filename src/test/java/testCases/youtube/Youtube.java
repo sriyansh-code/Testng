@@ -24,5 +24,6 @@ public class Youtube {
         driver.findElement(By.id(idSearchBox)).sendKeys("Beagle Puppies");
         driver.findElement(By.id(idSearchButton)).click();
         driver.findElement(By.xpath(xpathFirstResult)).click();
+        
     }
 }

@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="selenium_session" />
+        <module name="Selenium_session" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

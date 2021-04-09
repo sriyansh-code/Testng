@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-09T22:56:58 IST" name="Combine Suite" finished-at="2021-04-09T22:56:58 IST" duration-ms="368">
+    <groups>
+    </groups>
+    <test started-at="2021-04-09T22:56:58 IST" name="Package Test" finished-at="2021-04-09T22:56:58 IST" duration-ms="179">
+      <class name="testCases.firstpackage.SecondTestClass">
+        <test-method signature="secondTest()[pri:0, instance:testCases.firstpackage.SecondTestClass@77e4c80f]" started-at="2021-04-09T22:56:58 IST" name="secondTest" finished-at="2021-04-09T22:56:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- testCases.firstpackage.SecondTestClass -->
+      <class name="testCases.firstpackage.FirstTestClass">
+        <test-method signature="firstTest()[pri:0, instance:testCases.firstpackage.FirstTestClass@5d20e46]" started-at="2021-04-09T22:56:58 IST" name="firstTest" finished-at="2021-04-09T22:56:58 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testCases.firstpackage.FirstTestClass -->
+    </test> <!-- Package Test -->
+    <test started-at="2021-04-09T22:56:58 IST" name="Combine Test" finished-at="2021-04-09T22:56:58 IST" duration-ms="7">
+      <class name="testCases.secondpackage.FirstTestClass">
+        <test-method signature="firstTest()[pri:0, instance:testCases.secondpackage.FirstTestClass@2b546384]" started-at="2021-04-09T22:56:58 IST" name="firstTest" finished-at="2021-04-09T22:56:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testCases.secondpackage.FirstTestClass -->
+      <class name="testCases.thirdpackage.FirstTestClass">
+        <test-method signature="firstTest()[pri:0, instance:testCases.thirdpackage.FirstTestClass@5d740a0f]" started-at="2021-04-09T22:56:58 IST" name="firstTest" finished-at="2021-04-09T22:56:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testCases.thirdpackage.FirstTestClass -->
+    </test> <!-- Combine Test -->
+  </suite> <!-- Combine Suite -->
+</testng-results>
